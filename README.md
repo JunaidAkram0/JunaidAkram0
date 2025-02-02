@@ -1,3 +1,4 @@
+![logo](https://github.com/JunaidAkram0/Junaid-Akram-/blob/main/Banner.png)
 <h1 align="center">👋 Junaid Akram</h1>
 
 <p align="center">
