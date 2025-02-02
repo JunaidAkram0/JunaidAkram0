@@ -60,5 +60,5 @@
 
 ### 📫 Let's Connect!  
 <p align="center">
-  🌐 <a href="#">LinkedIn</a> | 📩 <a href="#">Email</a>
+  🌐 <a href="#">LinkedIn<https://www.linkedin.com/in/junaid-akram-data-analyst/a> | 📩 <a href="#">Email<Junaidkram9k@gmail.com/a>
 </p>
