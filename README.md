@@ -2,7 +2,6 @@
 <h1 align="center">👋 Junaid Akram</h1>
 
 <p align="center">
-  🎯 <strong>Data Analyst | SQL | Power BI | Python</strong> <br>
   📊 Passionate about turning raw data into meaningful insights!
 </p>
 
