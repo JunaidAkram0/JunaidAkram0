@@ -1,24 +1,29 @@
-# 👋 Junaid Akram  
+<h1 align="center">👋 Junaid Akram</h1>
 
-🎯 **Data Analyst | SQL | Power BI | Python**  
-📊 Passionate about turning raw data into meaningful insights!  
+<p align="center">
+  🎯 <strong>Data Analyst | SQL | Power BI | Python</strong> <br>
+  📊 Passionate about turning raw data into meaningful insights!
+</p>
+
+---
 
 ## 🚀 Skills & Tools  
 
 ### 📌 Data Analytics & Visualization  
-<p align="left">
-  <img src="https://img.icons8.com/color/50/power-bi.png" alt="Power BI"/> **Power BI** &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/50/microsoft-excel.png" alt="Excel"/> **Excel**
+<p align="center">
+  <img src="https://img.icons8.com/color/50/power-bi.png" alt="Power BI"/>  &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/50/tableau-software.png" alt="Tableau"/> &nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/50/microsoft-excel-2019.png" alt="Excel"/> 
 </p>
 
 ### 🛢 Databases & SQL  
-<p align="left">
-  <img src="https://img.icons8.com/color/50/mysql.png" alt="MySQL"/> **MySQL** &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/50/microsoft-sql-server.png" alt="MS SQL"/> **MS SQL** &nbsp;&nbsp;
+<p align="center">
+  <img src="https://img.icons8.com/color/50/mysql.png" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/50/microsoft-sql-server.png" alt="MS SQL"/>  
 </p>
 
 ### 🐍 Programming & Data Processing  
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/50/pandas.png" alt="Pandas"/> **Pandas** &nbsp;&nbsp;
   <img src="https://img.icons8.com/color/50/numpy.png" alt="NumPy"/> **NumPy**
 </p>
@@ -36,5 +41,23 @@
 
 ---
 
+## ⚡ GitHub Performance (2025 - Present)  
+
+🔹 **Active since Jan 2025**  
+🔹 **Recent Contributions in SQL, Power BI & Python**  
+🔹 **Ongoing Projects: Data Analytics Dashboards, SQL Queries & More**  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidAkram0&theme=white" alt="GitHub Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JunaidAkram0&show_icons=true&theme=white" alt="GitHub Stats"/>
+</p>
+
+---
+
 ### 📫 Let's Connect!  
-🌐 [LinkedIn](#) | 📩 [Email](#)  
+<p align="center">
+  🌐 <a href="#">LinkedIn</a> | 📩 <a href="#">Email</a>
+</p>
