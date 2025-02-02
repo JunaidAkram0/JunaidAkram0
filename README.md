@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm Junaid Akram! 👋</h1>  
-<h3 align="center">Data Analyst | Researcher | Machine Learning Enthusiast</h3>  
+<h3 align="center"> Trying to be a Data Analyst 
 
 ---
 
 ## 🚀 About Me  
 - 🎓 **Physics Graduate** transitioning into **Data Analytics**  
 - 📊 Passionate about **data-driven decision making** and **business intelligence**  
-- 🔬 **Research Enthusiast** in **Hydrogen Production & Catalyst Development**  
 - 💻 Currently learning **SQL, Power BI, and Advanced Data Analytics**  
 - 🎯 Looking for **Data Analyst & Research Opportunities**  
 - 📩 Feel free to reach out: [junaidakram9k@gmail.com](mailto:junaidakram9k@gmail.com)  
@@ -26,7 +25,7 @@
 
 ## 🛠️ Tech Stack & Skills  
 ### 📌 **Programming & Query Languages**  
-![Python Pandas](https://pandas.pydata.org/static/img/pandas.svg)  
+![Python Pandas] <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="40" height="40"/>  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 
