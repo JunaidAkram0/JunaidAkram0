@@ -42,23 +42,34 @@
 
 ---
 
-## ⚡ GitHub Performance (2025 - Present)  
+## 📊 **GitHub Performance (2025 - Present)**  
 
-🔹 **Active since Jan 2025**  
-🔹 **Recent Contributions in SQL, Power BI & Python**  
-🔹 **Ongoing Projects: Data Analytics Dashboards, SQL Queries & More**  
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidAkram0&theme=dark" alt="GitHub Streak Stats"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=JunaidAkram0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/></td>
+    <td><img src="https://streak-stats.demolab.com?user=JunaidAkram0&theme=dark&hide_border=true" alt="GitHub Streak"/></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunaidAkram0&show_icons=true&theme=dark" alt="GitHub Stats"/>
-</p>
+</div>
+
+
+
 
 ---
 
-### 📫 Let's Connect!  
-<p align="center">
-  🌐 <a href="#">LinkedIn<https://www.linkedin.com/in/junaid-akram-data-analyst/a> | 📩 <a href="#">Email<Junaidkram9k@gmail.com/a>
-</p>
+## 🔗 **Connect With Me**  
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/junaid-akram-data-analyst/" target="_blank">
+<img src="https://img.icons8.com/fluency/50/xuvGCOXi8Wyg/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+</a>
+
+<a href="mailto:Junaidakram9k@gmail.com">
+<img src="https://img.icons8.com/fluency/50/s4DpjivRujxq/mail.png" alt="Email" title="Email"/>
+</a>
+
+</div>
