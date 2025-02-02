@@ -23,19 +23,17 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills  
-### 📌 **Programming & Query Languages**  
-![Python Pandas] <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="40" height="40"/>  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)  
+## 🚀 Tech Stack & Skills  
 
+### 📊 **Data Analytics & Visualization**  
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40"/>  
+<img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" width="40"/>  
+<img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="40"/>  
 
-### 📊 **Data Analytics & BI Tools**  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+### 🛢 **Databases & SQL**  
+<img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="40"/>  
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="MS SQL" width="40"/>  
 
-### 🛠 **Other Tools & Technologies**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)  
 
 ---
 
