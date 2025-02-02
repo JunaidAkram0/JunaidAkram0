@@ -49,11 +49,11 @@
 🔹 **Ongoing Projects: Data Analytics Dashboards, SQL Queries & More**  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidAkram0&theme=white" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JunaidAkram0&theme=dark" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JunaidAkram0&show_icons=true&theme=white" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JunaidAkram0&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 ---
