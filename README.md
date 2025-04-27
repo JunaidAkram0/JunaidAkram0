@@ -18,7 +18,7 @@
 
 ### 🛢 Databases & SQL  
 <p align="center">
-  <img src="https://img.icons8.com/color/50/mysql.png" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL"/>&nbsp;&nbsp;
 </p>
 
 ---
